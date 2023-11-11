@@ -18,7 +18,11 @@ body {
 
 /* Header */
 header {
-    background-color: #fe6060;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
 }
 /*Main content*/
 main {
