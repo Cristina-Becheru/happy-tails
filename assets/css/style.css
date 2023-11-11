@@ -16,6 +16,26 @@ body {
     color: #3a3a3a;
     font-family: 'Roboto Slab', serif;
 }
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: 'Kaushan Script', cursive;
+    text-align: right;
+    text-transform: initial;
+    letter-spacing: 2px;
+    color: #ffffff;
+
+}
+h4 {
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
+}
 
 /* Header */
 header {
@@ -34,19 +54,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: 'Kaushan Script', cursive;
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #ffffff;
-}
-
-h4 {
-    font-family: 'Kaushan Script', cursive;
-    color: #ffffff;
 }
 
 #menu {
@@ -116,13 +123,33 @@ main {
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center/cover;
     position: relative;
+/* Background colour if image doesn't load */
+   background-color: #ffffff;
 }
 
+#cover-text {
+    font-size: 150%;
+    font-family:'Kaushan Script',cursive;
+    width: 80%;
+    bottom: 30px;
+    padding-top: 70px;
+    padding-left: 10px;
+    min-height: 200px;
+
+}
+#cover-text > h2 {
+    background-color: transparent;
+    font-weight: lighter;
+    position: relative;
+    bottom: 0px;
+    padding: 10px;
+    display: block;
+}
 /* Footer */
 footer {
     width: 100%;
     font-family: 'Roboto Slab', serif;
-    border-top: 1px solid #3a3a3a;
+    border-top: 0px solid #3a3a3a;
     background-color: #f4a6cd;
     padding: 20px;
     text-align: center;
