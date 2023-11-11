@@ -88,8 +88,21 @@ main {
     margin-top: 70px;
 }
 /* Footer */
-footer {
-    background-color: #ffffff;
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+#social-media i {
+    font-size: 180%;
+    padding: 5%;
+    transition-duration: 0.5s;
+}
+
+#social-media i:hover {
+    color: #3a3a3a;
 }
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
