@@ -91,3 +91,37 @@ main {
 footer {
     background-color: #ffffff;
 }
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+
+    #menu {
+        display: flex;
+        font-size: 130%;
+    }
+
+    #menu>li {
+        padding-left: 2em;
+    }
+
+    /* Navbar */
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 250%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+}
