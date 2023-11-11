@@ -18,7 +18,7 @@ body {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: #f4a6cd;
     padding: 0 1rem;
     z-index: 1;
     position: fixed;
@@ -39,7 +39,11 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #3a3a3a;
+    color: #ffffff;
+}
+h4 {
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
 }
 
 #menu {
