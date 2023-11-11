@@ -88,6 +88,37 @@ main {
     margin-top: 70px;
 }
 /* Footer */
+footer {
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    border-top: 1px solid #ffffff;
+    background-color: #f4a6cd;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+footer>span {
+    font-size: 100%;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 1px;
+    color: #ffffff;
+    padding: 0 0.5rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+}
+p {
+    color: #3a3a3a;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    border-top: 1px solid #ffffff;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 200;
+}
 #social-media {
     text-align: center;
     padding: 20px 0;
