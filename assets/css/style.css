@@ -4,17 +4,26 @@
     margin: 0;
     box-sizing: border-box;
 }
+/*General styles*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+    font-family: 'Roboto Slab', serif;
+}
 
 /* Header */
 header {
     background-color: #fe6060;
 }
-
-/* Main content */
+/*Main content*/
 main {
     background-color: #ffffff;
+    flex: 1 0 auto;
+/* Push main content down to accomodate larger header */
+    margin-top: 70px;
 }
-
 /* Footer */
 footer {
     background-color: #ffffff;
