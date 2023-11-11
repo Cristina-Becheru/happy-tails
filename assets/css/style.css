@@ -47,9 +47,20 @@ h1 {
     font-family: 'Roboto Slab', serif;
     font-size: 110%;
     letter-spacing: 4px;
+    text-transform: uppercase;
+    background-color: #f4a6cd;
+    color: #ffffff;
+}
+#menu a:hover {
+    color: #3a3a3a;
+    border-bottom: 2px solid;
 }
 #menu>li {
     margin-bottom: 1em;
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
 }
 
 .pointer {
