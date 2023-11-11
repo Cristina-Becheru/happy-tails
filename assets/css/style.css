@@ -105,7 +105,7 @@ footer {
         padding-left: 2em;
     }
 
-    /* Navbar */
+/* Navbar */
 
     nav {
         display: block;
@@ -124,9 +124,16 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-    /* Main content */
+/* Main content */
         main {
-    /* Push main content down to accomodate larger header */
+/* Push main content down to accomodate larger header */
         margin-top: 98px;
+    }
+}
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+        border-bottom-style: none;
     }
 }
