@@ -1,3 +1,6 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Kaushan+Script&family=Roboto+Slab:wght@300;400;500&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+
 /*Wildcard selector to remove default style set by the browser*/
 * {
     padding: 0;
@@ -10,7 +13,6 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
-    font-family: 'Roboto Slab', serif;
 }
 
 /* Header */
