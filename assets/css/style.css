@@ -234,6 +234,42 @@ video {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+/* Background Image with Contact Now button */
+#contact-bg {
+    width: 100%;
+    height: 200px;
+    display: flex;
+/* Background colour if image doesn't load */
+    background-color: #ffffff;
+}
+.contact-opacity {
+    background-color:#F2DAE5;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-button {
+    text-transform:capitalize;
+    width: 100px;
+    height: 100px;
+    font-family: 'Kaushan Script',cursive;
+    font-size: 130%;
+    text-align: center;
+    background-color: #ffffff;
+    color: #f4a6cd;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    transition-duration: 1s;
+}
+
+.contact-button:hover {
+    background-color: #F2DAE5;
+    color: #3a3a3a;
+    border: 1px solid #3a3a3a;
+}
 
 /* Footer */
 footer {
