@@ -16,6 +16,7 @@ body {
     color: #3a3a3a;
     font-family: 'Roboto Slab', serif;
 }
+
 h1 {
     font-family: 'Kaushan Script', cursive;
     text-align: center;
@@ -32,6 +33,7 @@ h2 {
     color: #ffffff;
 
 }
+
 h4 {
     font-family: 'Kaushan Script', cursive;
     color: #ffffff;
@@ -123,13 +125,13 @@ main {
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center/cover;
     position: relative;
-/* Background colour if image doesn't load */
-   background-color: #ffffff;
+    /* Background colour if image doesn't load */
+    background-color: #ffffff;
 }
 
 #cover-text {
     font-size: 150%;
-    font-family:'Kaushan Script',cursive;
+    font-family: 'Kaushan Script', cursive;
     width: 80%;
     bottom: 30px;
     padding-top: 40px;
@@ -137,7 +139,8 @@ main {
     min-height: 100px;
 
 }
-#cover-text > h2 {
+
+#cover-text>h2 {
     background-color: transparent;
     font-weight: lighter;
     position: relative;
@@ -145,6 +148,7 @@ main {
     padding: 10px;
     display: block;
 }
+
 /* About with video section */
 #about {
     width: 90%;
@@ -155,16 +159,21 @@ main {
     margin-bottom: 20px;
     text-align: left;
     font-size: 180%;
+    text-align: center;
+    color:#f4a6cd;
 }
-#description > div {
+
+#description>div {
     line-height: 20px;
     margin-bottom: 20px;
 }
+
 #description p {
     padding: 0 20px;
     text-align: left;
     font-size: 130%;
 }
+
 #description hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
@@ -179,7 +188,7 @@ video {
     padding-bottom: 0px;
     position: relative;
     top: -120px;
-    margin-left: 60%; 
+    margin-left: 60%;
 }
 
 
@@ -274,6 +283,7 @@ p {
         /* Push main content down to accomodate larger header */
         margin-top: 98px;
     }
+
     /* Hero */
     #cover-text {
         width: 80%;
