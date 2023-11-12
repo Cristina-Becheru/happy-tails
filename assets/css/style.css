@@ -163,7 +163,7 @@ main {
 #description p {
     padding: 0 20px;
     text-align: left;
-    font-size: 100%;
+    font-size: 130%;
 }
 #description hr {
     border-top: 1px solid #3a3a3a;
@@ -172,13 +172,14 @@ main {
 
 video {
     background-color: #f4a6cd;
-    height: 60%;
-    width: 60%;
-    border-radius: 10px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    position: sticky;
-    margin-left: 45%;
+    height: 40%;
+    width: 40%;
+    border-radius: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    position: relative;
+    top: -120px;
+    margin-left: 60%; 
 }
 
 
