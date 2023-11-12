@@ -39,6 +39,15 @@ h4 {
     color: #ffffff;
 }
 
+h5 {
+    font-family: 'Kaushan Script', cursive;
+    text-align: left;
+    letter-spacing: 2px;
+    color:#3a3a3a;
+    font-size: 110%;
+    font-weight: 500;
+
+}
 /* Header */
 header {
     background-color: #f4a6cd;
@@ -234,23 +243,12 @@ video {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
-/* Background Image with Contact Now button */
+/* Contact Now button */
 #contact-bg {
     width: 100%;
-    height: 200px;
+    height: 130px;
     display: flex;
-/* Background colour if image doesn't load */
-    background-color: #ffffff;
 }
-.contact-opacity {
-    background-color:#F2DAE5;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .contact-button {
     text-transform:capitalize;
     width: 100px;
@@ -263,6 +261,15 @@ video {
     border: 1px solid #ffffff;
     border-radius: 50%;
     transition-duration: 1s;
+}
+
+.contact-opacity {
+    background-color: #F2DAE5;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .contact-button:hover {
