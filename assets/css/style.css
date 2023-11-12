@@ -160,7 +160,8 @@ main {
     text-align: left;
     font-size: 180%;
     text-align: center;
-    color:#f4a6cd;
+    color: #f4a6cd;
+    font-family: 'Kaushan Script',cursive; 
 }
 
 #description>div {
@@ -170,8 +171,9 @@ main {
 
 #description p {
     padding: 0 20px;
-    text-align: left;
+    text-align: center;
     font-size: 130%;
+
 }
 
 #description hr {
@@ -186,8 +188,7 @@ video {
     border-radius: 15px;
     padding-top: 0px;
     padding-bottom: 0px;
-    position: relative;
-    top: -120px;
+    position: sticky;
     margin-left: 60%;
 }
 
@@ -202,6 +203,7 @@ footer {
     text-align: center;
     font-size: 14px;
     font-weight: 300;
+    position: relative;
 }
 
 footer>span {
@@ -289,6 +291,7 @@ p {
         width: 80%;
         right: 20px;
     }
+    
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -297,4 +300,7 @@ p {
         border-bottom: 1px solid #3a3a3a;
         border-bottom-style: none;
     }
+        
+    
+
 }
