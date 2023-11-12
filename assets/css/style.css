@@ -30,7 +30,7 @@ h2 {
     text-align: right;
     text-transform: initial;
     letter-spacing: 2px;
-    color: #ffffff;
+    color: #f4a6cd;
 
 }
 
@@ -161,7 +161,7 @@ main {
     font-size: 180%;
     text-align: center;
     color: #f4a6cd;
-    font-family: 'Kaushan Script',cursive; 
+    font-family: 'Kaushan Script', cursive;
 }
 
 #description>div {
@@ -185,6 +185,7 @@ video {
     background-color: #f4a6cd;
     height: 40%;
     width: 40%;
+    object-fit: cover;
     border-radius: 15px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -192,6 +193,48 @@ video {
     margin-left: 60%;
 }
 
+/* What We Offer section*/
+#offer {
+
+    width: 100%;
+    margin: 20px auto;
+
+}
+
+#offer h3 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 180%;
+    color: #f4a6cd;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#offer>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#offer-text p {
+    padding: 0 20px;
+    text-align: center;
+    font-size: 130%;
+}
+
+.list-align-center {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 120%;
+}
+
+.list-align-center ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+#offer hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
 
 /* Footer */
 footer {
@@ -291,7 +334,7 @@ p {
         width: 80%;
         right: 20px;
     }
-    
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -300,7 +343,7 @@ p {
         border-bottom: 1px solid #3a3a3a;
         border-bottom-style: none;
     }
-        
-    
+
+
 
 }
