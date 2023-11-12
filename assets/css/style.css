@@ -170,10 +170,9 @@ main {
 }
 
 #description p {
-    padding: 0 20px;
+    padding: 0 10px;
     text-align: center;
     font-size: 130%;
-
 }
 
 #description hr {
@@ -215,7 +214,7 @@ video {
 }
 
 #offer-text p {
-    padding: 0 20px;
+    padding: 0 10px;
     text-align: center;
     font-size: 130%;
 }
