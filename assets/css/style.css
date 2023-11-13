@@ -167,35 +167,35 @@ main {
 
 #description>div {
     line-height: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 #description p {
     padding: 0 10px;
     text-align: center;
-    font-size: 130%;
+    font-size: 120%;
 }
 
 #description hr {
     border-top: 1px solid #3a3a3a;
-    margin: 5px 0;
+    margin: 4px 0;
 }
 
 video {
     background-color: #f4a6cd;
-    height: 90%;
-    width: 90%;
+    height: 95%;
+    width: 95%;
     border-radius: 15px;
     padding-top: 0px;
     padding-bottom: 0px;
     position: relative;
-    margin-left: 5%;
-   
 }
+
 .video-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 1%;
 }
 
 /* What We Offer section*/
@@ -220,7 +220,7 @@ video {
 #offer-text p {
     padding: 0 10px;
     text-align: center;
-    font-size: 130%;
+    font-size: 120%;
 }
 
 .list-align-center {
@@ -238,6 +238,7 @@ video {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+
 /* Portfolio */
 
 .photos img {
@@ -248,12 +249,13 @@ video {
 .photos {
     line-height: 0;
     margin-top: 5px;
-    
+
 }
 
 .hidden-heading {
     display: none;
 }
+
 /* Contact Now button */
 #contact-bg {
     width: 100%;
@@ -289,23 +291,25 @@ video {
     color: #3a3a3a;
     border: 1px solid #3a3a3a;
 }
- /* Contact Form */
- #contact {
-        display: flex;
-        background-size: cover;
-        background-position: 75%;
-        padding: 30px 30%;
-        flex-grow: 1;
-  /* Background colour if image doesn't load */
-        background-color: #F2DAE5;
- }
+
+/* Contact Form */
+#contact {
+    display: flex;
+    background-size: cover;
+    background-position: 75%;
+    padding: 30px 30%;
+    flex-grow: 1;
+    /* Background colour if image doesn't load */
+    background-color: #F2DAE5;
+}
 
 #contact-form {
-    color:#3a3a3a;
+    color: #3a3a3a;
     width: 90%;
     height: 100%;
     margin-bottom: 1rem;
 }
+
 .text-input {
     width: 100%;
     height: 40px;
@@ -320,13 +324,15 @@ video {
     margin-bottom: 20px;
     padding: 10px 10px;
     font-size: 110%;
-    font-family:'Kaushan Script',cursive; ;
+    font-family: 'Kaushan Script', cursive;
+    ;
     border-radius: 4px;
     background-color: #f4a6cd;
     letter-spacing: 2px;
     text-transform: uppercase;
 
 }
+
 .button:hover {
     background-color: #F2DAE5;
     color: #3a3a3a;
@@ -441,15 +447,15 @@ p {
         border-bottom-style: none;
     }
 
-/* Media Queries for for large or landscape, phones (576px) and up  */
-@media screen and (min-width: 576px) {
+    /* Media Queries for for large or landscape, phones (576px) and up  */
+    @media screen and (min-width: 576px) {
 
-    /* Portfolio */
-    .photos {
-        column-count: 3;
-        column-gap: 0;
-       
+        /* Portfolio */
+        .photos {
+            column-count: 3;
+            column-gap: 0;
+
+        }
     }
-}
 
 }
