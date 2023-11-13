@@ -150,7 +150,7 @@ main {
     display: block;
 }
 
-/* About with video section */
+/* About section with videos*/
 #about {
     width: 90%;
     margin: 20px auto;
@@ -183,14 +183,19 @@ main {
 
 video {
     background-color: #f4a6cd;
-    height: 40%;
-    width: 40%;
-    object-fit: cover;
+    height: 90%;
+    width: 90%;
     border-radius: 15px;
     padding-top: 0px;
     padding-bottom: 0px;
-    position: sticky;
-    margin-left: 60%;
+    position: relative;
+    margin-left: 5%;
+   
+}
+.video-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 /* What We Offer section*/
