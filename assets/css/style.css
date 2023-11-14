@@ -247,7 +247,7 @@ video {
 }
 
 .photos {
-    line-height: 0;
+    line-height: 2;
     margin-left: 80px;
     margin-top: 30px;
     margin-bottom: 50px;
