@@ -22,7 +22,7 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #ffffff;
+    color: #3a3a3a;
 }
 
 h2 {
@@ -30,27 +30,26 @@ h2 {
     text-align: right;
     text-transform: initial;
     letter-spacing: 2px;
-    color: #ffffff;
+    color: #3a3a3a;
 
 }
 
 h4 {
     font-family: 'Kaushan Script', cursive;
-    color: #ffffff;
+    color: #dd64a1;
 }
 
 /* Header */
 header {
-    background-color: #f4a6cd;
     padding: 0 1rem;
     z-index: 1;
     position: fixed;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
     text-align: right;
     align-items: baseline;
+    background-color: #ffffff;
 }
 
 header a {
@@ -64,21 +63,22 @@ header a {
     font-size: 110%;
     letter-spacing: 4px;
     text-transform: uppercase;
-    background-color: #f4a6cd;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #3a3a3a;
     position: relative;
+    font-weight: 550;
 }
 
 #menu a:hover {
-    color: #3a3a3a;
-    border-bottom: 2px solid;
+    color: #dd64a1;
+    border-bottom: 1px solid;
 }
 
 #menu>li {
     margin-bottom: 1em;
-    color: #ffffff;
+    color: #3a3a3a;
     text-decoration: none;
-    display: inline-block;
+    display:grid;
     position: relative;
 }
 
@@ -126,7 +126,7 @@ main {
     width: 100%;
     background: url("../images/hero.webp") no-repeat center center/cover;
     position: relative;
-    /* Background colour if image doesn't load */
+/* Background colour if image doesn't load */
     background-color: #ffffff;
 }
 
@@ -267,7 +267,7 @@ video {
 
 .intro-text {
     display: block;
-    width: 80%;
+    width: 90%;
     padding: 15px 5px;
     line-height: 30px;
     font-size: 100%;
@@ -276,26 +276,18 @@ video {
 
 .intro-text h3 {
     padding-bottom: 5px;
-    font-size: 180%;
+    font-size: 110%;
     color: #3a3a3a;
-    font-family: 'Caveat', cursive;  
+    font-family:'Roboto Slab', serif;
+    font-weight: 550;
 }
 .intro-text a {
-    color: inherit;
+    color: #dd64a1;
     text-decoration: overline;
     font-weight: bolder;
     text-transform:uppercase;
 }
- a:hover {
-    background-color:#dd64a1; 
-    font-size: 100%;
-    font-family: 'Kaushan Script',cursive; 
-    padding: 10px 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    text-transform: capitalize;
-}
+
 /* Contact Now button */
 #contact-bg {
     width: 100%;
