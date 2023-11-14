@@ -258,7 +258,44 @@ video {
 .hidden-heading {
     display: none;
 }
+/* Introduction text for portfolio */
+#intro {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
 
+.intro-text {
+    display: block;
+    width: 80%;
+    padding: 15px 5px;
+    line-height: 30px;
+    font-size: 100%;
+    text-align: center;
+}
+
+.intro-text h3 {
+    padding-bottom: 5px;
+    font-size: 180%;
+    color: #3a3a3a;
+    font-family: 'Caveat', cursive;  
+}
+.intro-text a {
+    color: inherit;
+    text-decoration: overline;
+    font-weight: bolder;
+    text-transform:uppercase;
+}
+ a:hover {
+    background-color:#dd64a1; 
+    font-size: 100%;
+    font-family: 'Kaushan Script',cursive; 
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: capitalize;
+}
 /* Contact Now button */
 #contact-bg {
     width: 100%;
