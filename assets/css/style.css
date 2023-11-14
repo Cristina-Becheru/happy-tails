@@ -178,7 +178,7 @@ main {
 
 #description hr {
     border-top: 1px solid #3a3a3a;
-    margin: 4px 0;
+    margin: 5px 0;
 }
 
 video {
@@ -248,7 +248,12 @@ video {
 
 .photos {
     line-height: 0;
-    margin-top: 5px;
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 80px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
 
 }
 
@@ -325,12 +330,10 @@ video {
     padding: 10px 10px;
     font-size: 110%;
     font-family: 'Kaushan Script', cursive;
-    ;
     border-radius: 4px;
     background-color: #f4a6cd;
     letter-spacing: 2px;
     text-transform: uppercase;
-
 }
 
 .button:hover {
@@ -453,8 +456,7 @@ p {
         /* Portfolio */
         .photos {
             column-count: 3;
-            column-gap: 0;
-
+            column-gap: 3;
         }
     }
 
