@@ -307,7 +307,7 @@ video {
 /* Contact Form */
 
 #contact {
-    background: url(../images/pexels-pixabay-414667.webp) no-repeat center center/cover;
+    background: url(../images/pet) no-repeat center center/cover;
 /* Background colour if image doesn't load */
     background-color: #ffffff;
     position: relative;
@@ -321,21 +321,19 @@ video {
 
 #contact-form {
     color: #3a3a3a;
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
     margin-bottom: 1rem;
     justify-content: center;
     display: grid;
     grid-template-rows: 1fr auto 1fr;
     align-items: center;
     box-sizing: border-box;
-    background-color: #F2DAE5;
+    background-color:#F2DAE5;
     margin-top: 6px;
     margin-bottom: 16px;
     padding: 12px;
-    border: 1px solid #ccc;
     border-radius: 4px;
-    resize: vertical;
 }
 
 .text-input {
@@ -370,9 +368,9 @@ video {
     border: 1px solid #3a3a3a;
 }
 
-/* Thank you page */
+/* Thank you section */
 .thankyou {
-    font-size: 120%;
+    font-size: 110%;
     text-align: center;
 }
 /* Footer */
