@@ -382,11 +382,12 @@ img {
 }
 
 /* Thank you section */
-.thankyou {
-    font-size: 120%;
+#thankyoutext {
+    padding: 1.3em;
+    flex-grow: 1;
+    font-size: 1.3em;
     text-align: center;
 }
-
 /* Footer */
 footer {
     width: 100%;
@@ -504,6 +505,9 @@ p {
             column-count: 3;
             column-gap: 3;
         }
+         #thankyoutext {
+        font-size: 2rem;
+    }
     }
         @media (max-width: 600px) {
             /* Offer images */
