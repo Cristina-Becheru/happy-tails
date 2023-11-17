@@ -215,11 +215,6 @@ video {
     padding: 4px;
 }
 
-img {
-    border-radius: 20%;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
 .row::after {
     clear: both;
     display: block;
@@ -231,6 +226,7 @@ img {
     width: 100%;
     line-height: 1em;
     height: auto;
+   
 }
 
 .photos {
@@ -250,9 +246,8 @@ img {
 }
 
 .intro-text {
-    display: block;
-    width: 90%;
-    padding: 15px 5px;
+    width: 100%;
+    padding: 30px 5px;
     line-height: 20px;
     font-size: 100%;
     text-align: center;
