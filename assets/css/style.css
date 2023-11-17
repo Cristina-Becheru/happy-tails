@@ -33,11 +33,6 @@ h2 {
     color: #9B1290;
 }
 
-h4 {
-    font-family: 'Kaushan Script', cursive;
-    color: #9B1290;
-}
-
 /* Header */
 header {
     padding: 0 1rem;
@@ -119,9 +114,9 @@ main {
 
 /* Hero section */
 #hero {
-    height: 550px;
+    height: 500px;
     width: 100%;
-    background: url("../images/hero.webp") no-repeat center center/cover;
+    background: url("../images/hero.jpg") no-repeat center center/cover;
     position: relative;
     /* Background colour if image doesn't load */
     background-color: #ffffff;
@@ -258,7 +253,7 @@ img {
     display: block;
     width: 90%;
     padding: 15px 5px;
-    line-height: 30px;
+    line-height: 20px;
     font-size: 100%;
     text-align: center;
 }
@@ -480,10 +475,6 @@ p {
     }
 
     /* Hero */
-    #cover-text {
-        width: 80%;
-        right: 20px;
-    }
 
 }
 
