@@ -7,6 +7,7 @@ Looking on the website,you can view a portfolio with memorable pictures of  furr
 
 
 LIVE SITE
+
 [You can view the live site here.] (https://cristina-becheru.github.io/happy-tails/)
 
 ## TABLE OF CONTENT
@@ -115,6 +116,7 @@ Website was tested on the following browsers and was responsive and without erro
 
 ### Deployment
 -GitHub Pages:
+
 1. If you don't already have a GitHub account, sign up for one.
    
 2.Find the repository for [Happy Tails] (https://cristina-becheru.github.io/happy-tails/). 
