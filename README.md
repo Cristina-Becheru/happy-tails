@@ -1,39 +1,152 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# HAPPY TAILS
+"Happy Tails" is a photography website created for people to celebrate the joy and beauty of their beloved pets through the art of photography.
+This project was built using HTML and CSS only and is fully responsive, providing an optimal viewing experience across various devices, including desktops, tablets, and smartphones.
+Looking on the website,you can view a portfolio with memorable pictures of  furry companions which aims to illustrate the photographer's ability to capture the unique personalities, emotions, and expressions of different pets along with a contact page which facilitate a seamless and efficient communication  between the website visitors and the photographer. 
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
 
-## Codeanywhere Reminders
+LIVE SITE
+[You can view the live site here.] (https://cristina-becheru.github.io/happy-tails/)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## TABLE OF CONTENT
 
-`python3 -m http.server`
+- [HAPPY TAILS](#happy-tails)
+- [User Experience (UX)](#user-experience-ux)
+- [Client Goals](#client-goals)
+- [Design](#design)
+   - [Colour Scheme](#colour-scheme)  
+    - [Typography](#typography)
+- [General features on each page](#general-features-on-each-page)
+     -  [Home Page](#home-page)
+     -  [Portfolio](#Portfolio)
+     -  [Contact](#contact)
+     -  [Thank You](#thank-you)
+  
+- [Future IApplications](#future-applications)
+- [Technologies Used](#technologies-used)
+    - [Languages, Frameworks, Libraries \& Programs Used](#languages-frameworks-libraries-programs-used)
+- [Testing & Accesibility](#testing-accesibility)
+- [Deployment](#deployment)
+-  - [Local Development](#local-development)
+      - [Forking a Repository](#forking-a-Repository)
+      - [Cloning a Repository](#cloning-a-Repository)
+- [Credits](#credits)
+- [Code](#code)
+- [Acknowledgments](#acknowledgments)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## User Experience (UX)
+For an excellent user experience and to ensure that visitors have an enjoyable interaction,this website combine functionality,aesthetics,and usability,encouraging visitors to explore the services and to book a photography session for their beloved pets.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+#### Client Goals
+-Allows clients to personalize their photography sessions. This include choosing specific locations, themes, or styles that align with their preferences and the personality of their pets.
 
-`http_server`
+-Provide comprehensive details about the photography services offered. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+-In addition to the contact form, the website has media platforms which provide an excellent avenue to connect with potential clients and showcase the photographer's work.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Design
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Colour Scheme
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
 
-Happy coding!
+
+
+
+### Typography
+-Font used for the heading was ' Kaushan Script',cursive which has a handcrafted and handwritten quality, contributing to a personalized and unique style.
+
+-'Roboto Slab' was used for the general styles and menu providing a bold and contemporary look.
+
+## General features on each page
+
+#### Home Page
+
+The purpose of the home page is to introduce visitors to the pet photography website, to create a positive first impression, and provide an overview of our services.
+The content of the page is well structured providing an eye-catching hero image showcasing a cute white dog,a brief introduction about our mission and what services we offer with an interacting video.
+Home page,also include a direct link which allows you to find easily the contact page.
+Bellow the contact button you can find a bunch of social media icons which encourages visitors to follow us on their own social media profiles.
+
+#### Portfolio
+
+Include a warm and welcoming introduction and well-organized galleries featuring diverse pet photos which helps visitors to understand my approach, and demonstrate my skills.This page contain also a social media page and a contact link ,for an easy approach.
+
+#### Contact Page
+
+Contains a friendly message which encourages visitors to collaborate to create memorable experiences, a contact form for inquiries/bookings and social media links for additional communication or following.
+
+#### Thank You Page
+
+ It serves as a confirmation,express genuine appreciation for the opportunity to work with visitors and express enthusiasm for taking pictures of their pets.
+
+### Future Applications
+
+I am planning to implement an online booking system that allows clients to schedule pet photography sessions directly through the website and also an e-commerce system which allows clients to make purchases prints or photo products directly from the website.
+
+## Technologies Used
+
+### Languages, Frameworks, Libraries & Programs Used
+
+-HTML5: to create the structure and content of web pages.
+
+-CSS3: for styling and to improve the visual presentation of the website.
+
+- [Codeanywhere](https://app.codeanywhere.com/) | used to write, edit, and run code directly in the web browser.
+- [Github](https://github.com/) | used to store the file
+- [Font Awesome](https://fontawesome.com/icons) | used to integrate icons into the project
+- [Google Fonts](https://fonts.google.com/) | used to add fonts on the website.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) | used to check the validity of my CSS code.
+- [W3C Markup Validator](https://validator.w3.org/) | used to check the correctness of my HTML code. 
+- [Pexels](https://www.pexels.com/) | used  to find and download images for the project.
+- [Am I Responsive?](https://ui.dev/amiresponsive?) | used to create the mockup picture for different devices
+
+  ## Testing and Accesibility
+Website was tested on the following browsers and was responsive and without errors:Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Edge.
+
+
+
+
+
+
+
+
+### Deployment
+-GitHub Pages:
+1. If you don't already have a GitHub account, sign up for one.
+   
+2.Find the repository for [Happy Tails] (https://cristina-becheru.github.io/happy-tails/). 
+
+3.In your GitHub repository, go to the "Settings" tab.
+
+4.Scroll down to the "GitHub Pages" section.
+
+5.Under "Source," select the branch you want to use for GitHub Pages and click "Save."
+
+6.After saving, GitHub Pages will provide you with a link to your deployed website.
+
+### Local Development
+
+#### Forking a Repository:
+
+1.Log in to GitHub and locate [Happy Tails] (https://cristina-becheru.github.io/happy-tails/).
+
+2.Click the "Fork" button in the top right corner.
+
+3.Select where you want to fork the repository.
+
+4.Wait for the Fork and you'll be redirected to the forked repository when the process is complete.
+
+#### Cloning a Repository:
+
+1.Log in to GitHub and locate [Happy Tails] (https://cristina-becheru.github.io/happy-tails/).
+
+2.Get the Repository URL by clicking the "Code" button. Copy the repository URL.
+
+3.Open Terminal and navigate to the directory where you want to clone the repository.
+
+4.Run the Clone Command by ussing the git clone command with the repository URL.
+
+
