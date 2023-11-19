@@ -8,7 +8,7 @@ Looking on the website,you can view a portfolio with memorable pictures of  furr
 
 LIVE SITE
 
-[You can view the live site here.] (https://cristina-becheru.github.io/happy-tails/)
+[You can view the live site here.](https://cristina-becheru.github.io/happy-tails/)
 
 ## TABLE OF CONTENT
 
@@ -58,9 +58,9 @@ For an excellent user experience and to ensure that visitors have an enjoyable i
 
 
 ### Typography
--Font used for the heading was ' Kaushan Script',cursive which has a handcrafted and handwritten quality, contributing to a personalized and unique style.
+Font used for the heading was ' Kaushan Script',cursive which has a handcrafted and handwritten quality, contributing to a personalized and unique style.
 
--'Roboto Slab' was used for the general styles and menu providing a bold and contemporary look.
+'Roboto Slab' was used for the general styles and menu providing a bold and contemporary look.
 
 ## General features on each page
 
@@ -115,11 +115,11 @@ Website was tested on the following browsers and was responsive and without erro
 
 
 ### Deployment
--GitHub Pages:
+GitHub Pages:
 
 1. If you don't already have a GitHub account, sign up for one.
    
-2.Find the repository for [Happy Tails] (https://cristina-becheru.github.io/happy-tails/). 
+2.Find the repository for [Happy Tails](https://cristina-becheru.github.io/happy-tails/). 
 
 3.In your GitHub repository, go to the "Settings" tab.
 
@@ -133,7 +133,7 @@ Website was tested on the following browsers and was responsive and without erro
 
 #### Forking a Repository:
 
-1.Log in to GitHub and locate [Happy Tails] (https://cristina-becheru.github.io/happy-tails/).
+1.Log in to GitHub and locate [Happy Tails](https://cristina-becheru.github.io/happy-tails/).
 
 2.Click the "Fork" button in the top right corner.
 
@@ -143,7 +143,7 @@ Website was tested on the following browsers and was responsive and without erro
 
 #### Cloning a Repository:
 
-1.Log in to GitHub and locate [Happy Tails] (https://cristina-becheru.github.io/happy-tails/).
+1.Log in to GitHub and locate [Happy Tails](https://cristina-becheru.github.io/happy-tails/).
 
 2.Get the Repository URL by clicking the "Code" button. Copy the repository URL.
 
@@ -151,4 +151,14 @@ Website was tested on the following browsers and was responsive and without erro
 
 4.Run the Clone Command by ussing the git clone command with the repository URL.
 
+## Credits
 
+### Code
+
+
+
+### Acknowledgments
+
+-I appreciate the support from the Slack community and Code Institute. 
+-I would like to express my heartfelt gratitude for the guidance and support from my mentor [Spencer Barriball] and one of the mentors from Slack community, Harry Dhillon.
+-A massive thank you to my friend Harry Cornwell-your support made a significant difference.
