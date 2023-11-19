@@ -160,5 +160,7 @@ GitHub Pages:
 ### Acknowledgments
 
 -I appreciate the support from the Slack community and Code Institute. 
+
 -I would like to express my heartfelt gratitude for the guidance and support from my mentor [Spencer Barriball] and one of the mentors from Slack community, Harry Dhillon.
+
 -A massive thank you to my friend Harry Cornwell-your support made a significant difference.
