@@ -3,6 +3,7 @@
 This project was built using HTML and CSS only and is fully responsive, providing an optimal viewing experience across various devices, including desktops, tablets, and smartphones.
 Looking on the website,you can view a portfolio with memorable pictures of  furry companions which aims to illustrate the photographer's ability to capture the unique personalities, emotions, and expressions of different pets along with a contact page which facilitate a seamless and efficient communication  between the website visitors and the photographer. 
 
+![amiresponsive](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/f1be399d-fc76-473d-9e2a-84e714dfbc71)
 
 
 
@@ -28,6 +29,7 @@ LIVE SITE
 - [Technologies Used](#technologies-used)
     - [Languages, Frameworks, Libraries \& Programs Used](#languages-frameworks-libraries-programs-used)
 - [Testing & Accesibility](#testing-accesibility)
+  - [Lighthouse](#lighthouse-report)
 - [Deployment](#deployment)
 -  - [Local Development](#local-development)
       - [Forking a Repository](#forking-a-Repository)
@@ -48,14 +50,19 @@ For an excellent user experience and to ensure that visitors have an enjoyable i
 
 ## Design
 
-### Colour Scheme
+### Colours used
 
+#### Color used for headings
 
+![colorusedforheadings](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/2ddf0ca3-6ce3-41aa-9c21-0432defd9a78)
 
+#### Color used for logo and main body
 
+![colorusedforlogo](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/36dd7f70-25f9-4afc-b3b7-027883afe65d)
 
+#### Color used for background button
 
-
+![colorusedforbutton](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/94991af9-9622-4a4e-938b-de33cc26007f)
 
 ### Typography
 Font used for the heading was ' Kaushan Script',cursive which has a handcrafted and handwritten quality, contributing to a personalized and unique style.
@@ -107,17 +114,41 @@ I am planning to implement an online booking system that allows clients to sched
   ## Testing and Accesibility
 Website was tested on the following browsers and was responsive and without errors:Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Edge.
 
+#### W3C Markup Validation Result
+
+![validationbyurl](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/4c7e0cd0-91a7-47ed-8348-71c4c525d441)
+
+#### W3C CSS Validation Result
+
+![cssvalidation](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/69299955-4549-46aa-bd52-bf930f449a81)
+
+## LightHouse report
+
+### Home page score
+
+![homepagescore](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/ce15903a-f65a-4730-bcc1-28f79aef76f7)
+
+### Portfolio page score
+
+![portfoliolighthouse](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/c8f609d4-a520-4400-b51a-55d18df3b439)
 
 
+### Contact page score
+
+![contactlighthousescore](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/50ef6305-c54b-4a1d-b736-88cfaa0c4b55)
 
 
+### Manual testing
 
+-The manual testing was conducted to ensure the functionality and usability of the website.
+
+-The website is responsive as intended, and no issues were identified during the testing.
 
 
 ### Deployment
 GitHub Pages:
 
-1. If you don't already have a GitHub account, sign up for one.
+1.If you don't already have a GitHub account, sign up for one.
    
 2.Find the repository for [Happy Tails](https://cristina-becheru.github.io/happy-tails/). 
 
@@ -154,6 +185,8 @@ GitHub Pages:
 ## Credits
 
 ### Code
+-[W3Schools](https://www.w3schools.com/) - it a handy resource for looking up syntax and details on various topics.
+
 
 
 
