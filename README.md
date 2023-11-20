@@ -17,7 +17,7 @@ LIVE SITE
 - [User Experience (UX)](#user-experience-ux)
 - [Client Goals](#client-goals)
 - [Design](#design)
-   - [Colour Scheme](#colour-scheme)  
+   - [Colours Used](#colours-used)  
     - [Typography](#typography)
 - [General features on each page](#general-features-on-each-page)
      -  [Home Page](#home-page)
@@ -71,24 +71,56 @@ Font used for the heading was ' Kaushan Script',cursive which has a handcrafted 
 
 ## General features on each page
 
+
 #### Home Page
 
-The purpose of the home page is to introduce visitors to the pet photography website, to create a positive first impression, and provide an overview of our services.
-The content of the page is well structured providing an eye-catching hero image showcasing a cute white dog,a brief introduction about our mission and what services we offer with an interacting video.
-Home page,also include a direct link which allows you to find easily the contact page.
-Bellow the contact button you can find a bunch of social media icons which encourages visitors to follow us on their own social media profiles.
+##### The purpose of the home page is to introduce visitors to the pet photography website, to create a positive first impression, and provide an overview of our services.
+
+![homepageone](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/5e6efd25-f062-4949-9041-e175618a8d6b)
+
+
+
+##### The content of the page is well structured providing an eye-catching hero image showcasing a cute dog,a brief introduction about our mission and what services we offer with an interacting video.
+
+![aboutsection](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/6d75db33-0e2d-4df8-9e88-9b06d1262eb4)
+
+![offersection](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/64f0774f-e155-46b3-9b5a-ca4bba8b7165)
+
+
+
+##### Home page,also include a direct link which allows you to find easily the contact page.
+##### Bellow the contact button you can find a bunch of social media icons which encourages visitors to follow us on their own social media profiles.
+
+![footersection](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/8c318871-a6aa-4b04-b22f-3e8e754428d8)
+
+
 
 #### Portfolio
 
-Include a warm and welcoming introduction and well-organized galleries featuring diverse pet photos which helps visitors to understand my approach, and demonstrate my skills.This page contain also a social media page and a contact link ,for an easy approach.
+##### Include a warm and welcoming introduction and well-organized galleries featuring diverse pet photos which helps visitors to understand my approach, and demonstrate my skills.This page contain also a social media page and a contact link ,for an easy approach.
+
+![portfolio](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/5dbce301-6621-4010-92b7-f1d7eeb688ef)
+
+
+![portfoliotwo](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/0bd5606b-c4bf-462c-a015-34528d33630b)
+
+
 
 #### Contact Page
 
-Contains a friendly message which encourages visitors to collaborate to create memorable experiences, a contact form for inquiries/bookings and social media links for additional communication or following.
+##### Contains a friendly message which encourages visitors to collaborate to create memorable experiences, a contact form for inquiries/bookings and social media links for additional communication or following.
+
+![contactpage](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/ca87bb53-9984-4e2d-989a-d70cc20a43b7)
+
+
 
 #### Thank You Page
 
- It serves as a confirmation,express genuine appreciation for the opportunity to work with visitors and express enthusiasm for taking pictures of their pets.
+ ##### It serves as a confirmation,express genuine appreciation for the opportunity to work with visitors and express enthusiasm for taking pictures of their pets.
+
+ ![thankyoumessage](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/03011bcf-4a94-4c89-8c0d-dc6e55dbba7d)
+
+
 
 ### Future Applications
 
@@ -112,7 +144,12 @@ I am planning to implement an online booking system that allows clients to sched
 - [Am I Responsive?](https://ui.dev/amiresponsive?) | used to create the mockup picture for different devices
 
   ## Testing and Accesibility
-Website was tested on the following browsers and was responsive and without errors:Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Edge.
+  
+Website was tested on the following browsers and was responsive and without errors:
+
+- [Google Chrome](https://www.google.com/chrome/)
+- [Microsoft edge](https://www.microsoft.com/en-us/edge?form=MA13L0)
+- [Safari](https://www.apple.com/safari/)
 
 #### W3C Markup Validation Result
 
@@ -142,6 +179,16 @@ Website was tested on the following browsers and was responsive and without erro
 ### Manual testing
 
 -The manual testing was conducted to ensure the functionality and usability of the website.
+
+-Home page loaded successfully on all tested devices and browsers.
+
+-All navigation links (Home, Portfolio, Contact) work without errors.
+
+-About section provided a concise introduction and is formatted well on all devices.
+
+-Portfolio images loaded correctly.
+
+-All the social media links are responsive and work as intended.
 
 -The website is responsive as intended, and no issues were identified during the testing.
 
@@ -186,9 +233,9 @@ GitHub Pages:
 ## Credits
 
 ### Code
--[W3Schools](https://www.w3schools.com/) - it a handy resource for looking up syntax and details on various topics.
+-[W3Schools](https://www.w3schools.com/) - it wasa handy resource for looking up syntax and details on various topics.
 
-
+-[Love Running] project was also used for the main structure of the website.
 
 
 ### Acknowledgments
