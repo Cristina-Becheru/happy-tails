@@ -462,6 +462,11 @@ p {
     .nav-toggle-label {
         display: none;
     }
+    
+    #logo {
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
 
 
     /* Main content */
