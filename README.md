@@ -126,7 +126,8 @@ Website was tested on the following browsers and was responsive and without erro
 
 ### Home page score
 
-![homepagescore](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/ce15903a-f65a-4730-bcc1-28f79aef76f7)
+![homepage](https://github.com/Cristina-Becheru/happy-tails/assets/145697478/84542d6d-0d0b-4ef0-b993-670ce24e3ae8)
+
 
 ### Portfolio page score
 
