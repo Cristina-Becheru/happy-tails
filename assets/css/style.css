@@ -237,7 +237,7 @@ video {
 
 .photos {
     padding: 1rem;
-    column-gap: 2;
+    column-gap: 2px;
 }
 
 .hidden-heading {
